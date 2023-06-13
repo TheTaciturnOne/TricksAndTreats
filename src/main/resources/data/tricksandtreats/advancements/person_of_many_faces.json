@@ -1,0 +1,67 @@
+{
+  "parent": "minecraft:story/shiny_gear",
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tricksandtreats:mask_of_the_cracklin"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:mask_of_the_reclaimer"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:mask_of_the_haunted"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:mask_of_the_ringmaster"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:mask_of_the_slasher"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:mask_of_the_outcast"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:mask_of_the_trickster"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:mask_of_the_ancients"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": "Collect every single Themed Mask",
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "tricksandtreats:mask_of_the_slasher",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": "A Person of Many Faces"
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

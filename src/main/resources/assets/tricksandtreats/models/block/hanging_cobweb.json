@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "tricksandtreats:block/hanging_cobweb"
+  }
+}

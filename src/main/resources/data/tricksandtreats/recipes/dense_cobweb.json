@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cobweb"
+    }
+  },
+  "result": {
+    "count": 9,
+    "item": "tricksandtreats:dense_cobweb"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "whisperer_activated": {
+    "subtitle": "subtitle.tricksandtreats.whisperer_activated",
+    "sounds": [
+      "tricksandtreats:whisperer_activated"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cobweb"
+    }
+  },
+  "result": {
+    "count": 3,
+    "item": "tricksandtreats:hanging_cobweb"
+  }
+}

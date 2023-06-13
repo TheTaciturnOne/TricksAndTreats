@@ -1,0 +1,32 @@
+{
+  "item.tricksandtreats.mask_of_the_cracklin": "Mask of the Cracklin",
+  "item.tricksandtreats.mask_of_the_haunted": "Mask of the Haunted",
+  "item.tricksandtreats.mask_of_the_ringmaster": "Mask of the Ringmaster",
+  "item.tricksandtreats.mask_of_the_outcast": "Mask of the Outcast",
+  "item.tricksandtreats.mask_of_the_slasher": "Mask of the Slasher",
+  "item.tricksandtreats.mask_of_the_trickster": "Mask of the Trickster",
+  "item.tricksandtreats.mask_of_the_ancients": "Mask of the Ancients",
+  "item.tricksandtreats.mask_of_the_reclaimer": "Mask of the Reclaimer",
+
+  "item.tricksandtreats.lollipop": "Lollipop",
+  "item.tricksandtreats.caramel": "Caramel",
+  "item.tricksandtreats.caramel_chocolate_bar": "Caramel Chocolate Bar",
+  "item.tricksandtreats.chocolate_bar": "Chocolate Bar",
+  "item.tricksandtreats.caramel_apple": "Caramel Apple",
+  "item.tricksandtreats.butchers_knife": "Butcher's Knife",
+
+  "block.tricksandtreats.comedic_pumpkin": "Comedic Pumpkin",
+  "block.tricksandtreats.tragic_pumpkin": "Tragic Pumpkin",
+  "block.tricksandtreats.hanging_cobweb": "Hanging Cobweb",
+  "block.tricksandtreats.dense_cobweb": "Dense Cobweb",
+  "block.tricksandtreats.confectioners_table": "Confectioner's Table",
+  "block.tricksandtreats.marauders_table": "Marauder's Table",
+  "block.tricksandtreats.blood_splatter": "Blood Splatter",
+  "block.tricksandtreats.whisperer": "Whisperer",
+  "block.tricksandtreats.void_of_eyes": "Void of Eyes",
+
+  "entity.minecraft.villager.tricker": "Tricker",
+  "entity.minecraft.villager.treater": "Treater",
+
+  "subtitle.tricksandtreats.whisperer_activated": "Whispers appear"
+}

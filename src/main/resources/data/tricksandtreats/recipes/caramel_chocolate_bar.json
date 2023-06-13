@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tricksandtreats:chocolate_bar"
+    },
+    {
+      "item": "tricksandtreats:caramel"
+    },
+    {
+      "item": "tricksandtreats:caramel"
+    },
+    {
+      "item": "tricksandtreats:caramel"
+    }
+  ],
+
+  "result": {
+    "item": "tricksandtreats:caramel_chocolate_bar"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VOV",
+    "VGV",
+    "VHV"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:diamond"
+    },
+    "V": {
+      "tag": "minecraft:planks"
+    },
+    "H": {
+      "item": "minecraft:note_block"
+    },
+    "O": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "tricksandtreats:whisperer"
+  }
+}

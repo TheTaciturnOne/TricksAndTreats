@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "tricksandtreats:block/confectioners_table_bottom",
+    "east": "tricksandtreats:block/confectioners_table_side",
+    "north": "tricksandtreats:block/confectioners_table_front",
+    "particle": "tricksandtreats:block/confectioners_table_bottom",
+    "south": "tricksandtreats:block/confectioners_table_side",
+    "up": "minecraft:block/calcite",
+    "west": "tricksandtreats:block/confectioners_table_front"
+  }
+}

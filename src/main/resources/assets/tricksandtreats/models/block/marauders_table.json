@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "tricksandtreats:block/marauders_table_bottom",
+    "east": "tricksandtreats:block/marauders_table_side",
+    "north": "tricksandtreats:block/marauders_table_front",
+    "particle": "tricksandtreats:block/marauders_table_bottom",
+    "south": "tricksandtreats:block/marauders_table_side",
+    "up": "minecraft:block/anvil",
+    "west": "tricksandtreats:block/marauders_table_front"
+  }
+}

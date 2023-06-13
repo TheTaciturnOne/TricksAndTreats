@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "tricksandtreats:void_of_eyes",
+      "required": true
+    }
+  ]
+}

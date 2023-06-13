@@ -1,0 +1,52 @@
+{
+  "parent": "minecraft:husbandry/plant_seed",
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tricksandtreats:caramel"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:caramel_apple"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:caramel_chocolate_bar"
+            ]
+          },
+          {
+            "items": [
+              "tricksandtreats:lollipop"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": "Collect every piece of candy available in the mod",
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "tricksandtreats:lollipop",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": "Professional Trick-or-Treater"
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

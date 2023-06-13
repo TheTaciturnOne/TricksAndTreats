@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G#G",
+    "#A#",
+    "G#G"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:ender_eye"
+    },
+    "G": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "count": 8,
+    "item": "tricksandtreats:void_of_eyes"
+  }
+}

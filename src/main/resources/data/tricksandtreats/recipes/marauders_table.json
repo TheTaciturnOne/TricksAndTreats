@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "GG",
+    "GG"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    "G": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "tricksandtreats:marauders_table"
+  }
+}

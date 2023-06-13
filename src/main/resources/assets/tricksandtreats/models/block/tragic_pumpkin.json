@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "tricksandtreats:block/tragic_pumpkin_side",
+    "side": "tricksandtreats:block/special_pumpkin_side",
+    "top": "tricksandtreats:block/special_pumpkin_top",
+    "bottom": "tricksandtreats:block/special_pumpkin_bottom"
+  }
+}

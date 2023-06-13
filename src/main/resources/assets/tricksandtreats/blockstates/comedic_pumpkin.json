@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tricksandtreats:block/comedic_pumpkin",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tricksandtreats:block/comedic_pumpkin"
+    },
+    "facing=south": {
+      "model": "tricksandtreats:block/comedic_pumpkin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tricksandtreats:block/comedic_pumpkin",
+      "y": 270
+    }
+  }
+}

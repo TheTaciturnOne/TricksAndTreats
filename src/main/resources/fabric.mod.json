@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "tricksandtreats",
+  "version": "${version}",
+
+  "name": "Tricks and Treats",
+  "description": "",
+  "authors": [
+    "TheTaciturnOne"
+  ],
+  "contact": {
+    "My Twitch": "https://www.twitch.tv/thetaciturnone",
+    "My Discord": "https://discord.gg/DZPkZRfCwz"
+  },
+
+  "license": "MIT License",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.thetaciturnone.tricksandtreats.TricksAndTreats"
+    ],
+    "client": [
+      "net.thetaciturnone.tricksandtreats.TricksAndTreatsClient"
+    ]
+  },
+  "mixins": [
+    "tricksandtreats.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "tricksandtreats:marauders_table",
+      "required": true
+    },
+    {
+      "id": "tricksandtreats:confectioners_table",
+      "required": true
+    },
+    {
+      "id": "tricksandtreats:whisperer",
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ##",
+    " T#",
+    "X "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "X": {
+      "item": "minecraft:stick"
+    },
+    "T": {
+      "item": "minecraft:honey_block"
+    }
+  },
+  "result": {
+    "item": "tricksandtreats:lollipop"
+  }
+}

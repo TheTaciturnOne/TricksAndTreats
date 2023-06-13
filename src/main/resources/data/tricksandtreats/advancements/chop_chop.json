@@ -1,0 +1,32 @@
+{
+  "parent": "tricksandtreats:person_of_many_faces",
+  "criteria": {
+    "requirement": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tricksandtreats:butchers_knife"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": "Obtain a murderer's weapon of choice",
+    "frame": "challenge",
+    "hidden": false,
+    "icon": {
+      "item": "tricksandtreats:butchers_knife",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": "Chop Chop!"
+  },
+  "rewards": {
+    "experience": 100
+  }
+}

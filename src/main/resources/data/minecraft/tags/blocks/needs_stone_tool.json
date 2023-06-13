@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "tricksandtreats:marauders_table",
+    "tricksandtreats:confectioners_table",
+    "tricksandtreats:whisperer",
+    "tricksandtreats:dense_cobweb",
+    "tricksandtreats:hanging_cobweb"
+  ]
+}

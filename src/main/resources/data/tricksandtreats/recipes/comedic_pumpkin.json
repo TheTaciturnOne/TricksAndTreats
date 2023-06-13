@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:carved_pumpkin"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  ],
+
+  "result": {
+    "count": 1,
+    "item": "tricksandtreats:comedic_pumpkin"
+  }
+}
